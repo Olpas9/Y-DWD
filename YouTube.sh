@@ -23,11 +23,11 @@ echo -e "\e[032m" "creating youtube-dl folder \n"
  mkdir ~/.config/youtube-dl
 
 echo -e "\e[032m" "creating bin folder \n"
- mkdir ~/bin/termux-url-opener
+ mkdir ~/bin
 
-echo -e "\e[034m" "termux-url-opener creation \n"
+echo -e "\e[032m" "creating home directory for termux-url-opener \n"
+ mkdir ~/$HOME/bin/termux-url-opener
 
- mv termux-url-opner ~/bin/
 echo -e "\n"
 echo -e "\e[032m" " Done \n"
 echo -e "\e[035m" " Now you have done So you can visit YouTube videos and choose any video you like, then click share bottom and choose to share into termux ,Choose quality of video then enter after that u will find YouTube videos in your internal storage \n"
