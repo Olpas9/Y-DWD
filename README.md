@@ -6,6 +6,7 @@ Copy and paste commands below
 <br>
 ```
   
-cd && pkg install git -y && git clone https://github.com/khansaad1275/Termux-YTD/ && cd Termux-YTD && bash install.sh
+cd && pkg install git -y && git clone https://github.com/Olpas9/Y-DWN.git && 
+cd Y-DWN && bash install.sh
 ```
 # usage
