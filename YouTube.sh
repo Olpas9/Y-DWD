@@ -23,7 +23,7 @@ echo -e "\e[032m" "creating youtube-dl folder \n"
  mkdir ~/.config/youtube-dl
 
 echo -e "\e[032m" "creating bin folder \n"
- mkdir ~/bin
+ mkdir ~/bin/termux-url-opener
 
 echo -e "\e[034m" "termux-url-opener creation \n"
 
