@@ -1,4 +1,4 @@
-!/data/data/com.termux/files/usr/bin/bash
+#!/data/data/com.termux/files/usr/bin/bash
 
 echo -e "\e[031m"  " ________________________________________    "
 echo -e "\e[031m"  "  ___  ___    ______        ________     |  "
