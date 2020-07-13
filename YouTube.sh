@@ -10,8 +10,8 @@ echo -e "\e[032m" "Allow storage permission \n"
   termux-setup-storage
 sleep 3
 
-echo -e "\e[032m" "installing git \n"
- pkg install git -y
+echo -e "\e[032m" "installing python \n"
+ pkg install python -y
 
 echo -e "\e[035m" "installing youtube-dl \n"
  pip install youtube-dl
@@ -24,18 +24,9 @@ echo -e "\e[032m" "creating youtube-dl folder \n"
 
 echo -e "\e[032m" "creating bin folder \n"
  mkdir ~/bin
- cd bin
-sleep 1 
- nvim termux-url-opener
-
-echo -e "\e[032m" "making it excitable \n"
- chmod +x termux-url-opener
-
-echo -e "\e[033m" "Installing zsh wget and ffmpeg \n"
- pkg install zsh wget and ffmpeg
 
 echo -e "\e[032m" "creating home directory for termux-url-opener \n"
- mkdir ~/$HOME/bin/termux-url-opener
+ mv termux-url-opener ~/bin
 
 echo -e "\n"
 echo -e "\e[032m" " Done \n"
