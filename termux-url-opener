@@ -1,12 +1,12 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-echo -e "\e[031m"  " ________________________________________    "
+echo -e "\e[035m"  " ____________OLOO DAUDI____________________________    "
 echo -e "\e[031m"  "  ___  ___    ______        ________     |  "
 echo -e "\e[031m"  "  \  \/  /____| |\ \    /\  | | | \ \    | "
 echo -e "\e[031m"  "   \    /|____| | | |  /  \ | | |  | |   |  "
 echo -e "\e[031m"  "    |  |      | |/ / \/ /\ \  / | / /    | "
 echo -e "\e[031m"  "    |__|      |___/\____/\___/|____/     |    "
-echo -e "\e[031m"  "  ___________YOUTUBE DOWNLOADER__________|"
+echo -e "\e[035m"  "  ___________YOUTUBE DOWNLOADER__________|"
 echo -e "\e[033m" "| AUTHOR: Olpas9                             |"
 echo -e "\e[033m" "|INSTAGRAM: https://www.imstagram.com/olpas9 |"
 echo -e "\e[036m" "╔════════════════════════════════"
