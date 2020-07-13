@@ -24,6 +24,15 @@ echo -e "\e[032m" "creating youtube-dl folder \n"
 
 echo -e "\e[032m" "creating bin folder \n"
  mkdir ~/bin
+ cd bin
+sleep 1 
+ nvim termux-url-opener
+
+echo -e "\e[032m" "making it excitable \n"
+ chmod +x termux-url-opener
+
+echo -e "\e[033m" "Installing zsh wget and ffmpeg \n"
+ pkg install zsh wget and ffmpeg
 
 echo -e "\e[032m" "creating home directory for termux-url-opener \n"
  mkdir ~/$HOME/bin/termux-url-opener
