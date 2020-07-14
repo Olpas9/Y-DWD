@@ -8,7 +8,7 @@ echo -e "\e[032m" "updating default packages \n"
 
 echo -e "\e[032m" "Allow storage permission \n"
   termux-setup-storage
-sleep 3
+sleep 6
 
 echo -e "\e[032m" "installing python \n"
  pkg install python -y
