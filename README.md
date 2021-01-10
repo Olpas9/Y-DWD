@@ -4,11 +4,11 @@ Download all YouTube video with termux without any restrictions <br>
 # INSTALLATION
  copy and paste below command in termux  <br>
 
->  apt update && apt upgrade
->  pkg install git
->  git clone https://github.com/Olpas9/Y-DWD.git
->  cd Y-DWD
->  bash YouTube.sh 
+1. ```  apt update && apt upgrade ```
+2. ```  pkg install git ```
+3. ```  git clone https://github.com/Olpas9/Y-DWD.git ```
+4. ```  cd Y-DWD ```
+5. ```  bash YouTube.sh  ```
 
 
 <br>
