@@ -5,7 +5,7 @@ Download all YouTube video with termux without any restrictions <br>
  copy and paste below command in termux then you have done
  
 ```
-cd && pkg install git -y && git clone htttps://github.com/Olpas9/Y-DwD/
+cd && pkg install git -y && git clone https://github.com/Olpas9/Y-DwD/
  && bash YouTube.sh 
 ```
 
