@@ -13,10 +13,14 @@ Download all YouTube video with termux without any restrictions <br>
 
 <br>
 <br>
+<img src="Screenshot_20200713-192936~2.png"
+<br>
+<br>
 
-# Usage:
+#  Usage:
 -  Open YouTube app then choose any video you want.
 -  In video you have chosen click share button.
 -  Share into termux then you will be asked to choose quality of video,
--  Click enter then you have done!!
-###  Enjoy YouTube videos in your internal storage 😜😜
+-  Click enter then you have done!!, Visit internal file to watch your video offline
+
+#  Enjoy YouTube videos from  your internal storage 😜😜
