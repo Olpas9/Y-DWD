@@ -17,7 +17,7 @@ echo -e "\e[035m" "installing youtube-dl \n"
  pip install youtube-dl
 
 echo -e "\e[032m" "making directory of youtube \n"
- mkdir ~/storage/shared/Youtube
+ mkdir ~/sdcard/Youtube
 
 echo -e "\e[032m" "creating youtube-dl folder \n"
  mkdir ~/.config/youtube-dl
